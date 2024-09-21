@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Octicons.Generate": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
